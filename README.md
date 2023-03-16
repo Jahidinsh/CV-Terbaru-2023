@@ -1,8 +1,8 @@
 # CV Terbaru 2023
 ## CV ATS dan Lamaran Pekerjaan
 ==
-<ul>
+<ol>
 <li>Bekas Sertifikat</li>
 <li>Berkas Pribadi</li>
-<li?Foto </li>
-</ul>
+<li>Foto </li>
+</ol>
